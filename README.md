@@ -1,8 +1,8 @@
-Hi
+![Image of Headert](https://github.com/hchuhtala/hchuhtala/blob/main/header_github.png)
 
 <!---
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Headert](https://github.com/hchuhtala/hchuhtala/blob/main/header_github.png)
 
 - 👋 Hi, I’m @hchuhtala
 - 👀 I’m interested in ...
